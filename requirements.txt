@@ -1,0 +1,9 @@
+jupyter
+matplotlib
+numpy
+torch
+torchvision
+Pillow
+tqdm
+prettytable
+pytorch
