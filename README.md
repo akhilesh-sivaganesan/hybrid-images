@@ -9,5 +9,5 @@ This project aims to blend two images to show one image up close, and the other 
 ## Result Blend
 ![Blended Image](./results/scaled_cat_to_dog.png)
 
-### *Notice that the image on the far right appears as a dog.*
+### *Note that the image on the far right appears as a dog.*
 
